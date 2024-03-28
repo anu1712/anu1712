@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m interested in Machine Learning , App development and web development<br>👯 I’m looking to collaborate on MERN Stack projects and ANN projects<br>🤝 I’m looking for help with open source development<br>🌱 I’m currently learning Tensorflow ,Keras and c++<br>
+🔭 I’m interested in Machine Learning , Cyber Security and Web development<br>👯 I’m looking to collaborate on projects in these domains<br>🤝 I’m looking for help with open source development<br>🌱 I’m currently learning Java, Forensics and UI/UX Development<br>
 
 
 ## 🌐 Socials:
