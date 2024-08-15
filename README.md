@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m interested in Machine Learning , Cyber Security and Web development<br>👯 I’m looking to collaborate on projects in these domains<br>🤝 I’m looking for help with open source development<br>🌱 I’m currently learning Java, Forensics and UI/UX Development<br>
+🔭 I’m interested in Machine Learning , Cyber Security and Web development<br>🌱 I’m currently learning Java, Angular, Digital Forensics, Ethical Hacking and UI/UX Development<br>
 
 
 ## 🌐 Socials:
